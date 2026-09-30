@@ -222,25 +222,26 @@ online-retail-analysis/
 ## Project Workflow    
 
 ```
-- Raw Dataset
+Raw Dataset
      ↓
-- SQL Data Exploration
+SQL Data Exploration
      ↓
-- Data Quality Investigation
+Data Quality Investigation
      ↓
-- SQL Cleaning
+SQL Cleaning
      ↓
-- Clean Dataset
+Clean Dataset
      ↓
-- Tableau Calculations
+Tableau Calculations
      ↓
-- Tableau Analysis
+Tableau Analysis
      ↓
-- Dashboards
+Dashboards
      ↓
-- Business Insights
+Business Insights
 
 ```
+
 
 ## Conclusion
 
