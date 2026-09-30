@@ -221,6 +221,7 @@ online-retail-analysis/
 
 ## Project Workflow    
 
+```
 - Raw Dataset
      ↓
 - SQL Data Exploration
@@ -239,6 +240,7 @@ online-retail-analysis/
      ↓
 - Business Insights
 
+```
 
 ## Conclusion
 
