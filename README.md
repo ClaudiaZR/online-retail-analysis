@@ -108,6 +108,9 @@ sql/online_retail_analysis.sql
 The Tableau workbook contains two dashboards.
 
 
+#### [Link to the Tableau Public Workbook](https://public.tableau.com/views/OnlineRetailSales_17907068545830/OnlineRetailSalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ### Executive Overview 
 
 The Executive Overview provides a high-level view of sales performance and includes:
@@ -203,11 +206,6 @@ Possible extensions of this project include:
 
 --- 
 
-**Link to the workbook in Tableau Public :**   
-
-https://public.tableau.com/views/OnlineRetailSales_17907068545830/OnlineRetailSalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
----
 
 ## Project Structure
 
