@@ -52,7 +52,7 @@ Note: Prices are recorded in GBP (£).
 - Excel/CSV: data storage and transfer.
 - SQL / SQLite: data exploration, quality checks, cleaning, and validation.
 - Tableau: calculated fields, analysis, visualization, and dashboards.
-- **GitHub** — project documentation and version control
+- GitHub: project documentation and version control
 
 
 ## Data Cleaning and Preparation
