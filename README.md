@@ -107,6 +107,7 @@ sql/online_retail_analysis.sql
 
 The Tableau workbook contains two dashboards.
 
+
 ### Executive Overview 
 
 The Executive Overview provides a high-level view of sales performance and includes:
@@ -132,6 +133,7 @@ The Customer Analysis dashboard focuses on customer purchasing behavior and incl
 - Average Order Value
 
 A Top 20 customer view was used to focus the customer analysis on the highest-revenue customers.
+
 
 
 ### Key Performance Indicators 
@@ -199,6 +201,13 @@ Possible extensions of this project include:
 - Seasonal purchasing patterns
 
 
+
+**Link to the workbook in Tableau Public :**   
+
+https://public.tableau.com/views/OnlineRetailSales_17907068545830/OnlineRetailSalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
 ## Project Structure
 
 ```
@@ -218,6 +227,7 @@ online-retail-analysis/
     └── online_retail_dashboard.twbx
 
 ```
+
 
 ## Project Workflow    
 
