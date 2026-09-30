@@ -149,13 +149,13 @@ The cleaned dataset produced the following overall metrics in Tableau:
 
 ### Key Findings
 
-#### Revenue trend
+### Revenue trend
 
 Revenue fluctuated throughout the period but increased substantially toward the latter part of 2011.
 November 2011 recorded the highest monthly revenue at approximately £1.50 million.
 December should be interpreted cautiously because the dataset only contains transactions through December 9, 2011.
 
-#### Product performance
+### Product performance
 
 Product performance differed depending on the metric used.
 
@@ -164,12 +164,12 @@ PAPER CRAFT, LITTLE BIRDIE was the highest-volume product at approximately 81,00
 DOTCOM POSTAGE generated the highest revenue among the products shown, at approximately £206,000, despite not appearing among the top products by units sold.
 This demonstrates why both revenue and sales volume are useful when evaluating product performance.
 
-#### Geographic performance
+### Geographic performance
 
 Revenue was highly concentrated in the United Kingdom, which generated approximately £9.00 million, or roughly 85% of total revenue.
 The Netherlands, EIRE, Germany, and France were the next largest revenue generating countries, although each contributed noticeably less than the UK.
 
-#### Customer performance
+### Customer performance
 
 Customer value varied substantially.
 
@@ -180,7 +180,7 @@ However, the customer with the most orders placed 209 orders, demonstrating that
 Some customers also had exceptionally high average order values because their revenue was generated from only one or two orders. These cases would deserve further investigation before drawing conclusions about typical customer behavior.
 
 
-#### Limitations
+## Limitations
 
 **Partial December data:** The dataset ends on December 9, 2011, so December revenue cannot be compared directly with complete months.
 
@@ -189,7 +189,7 @@ Some customers also had exceptionally high average order values because their re
 **Product descriptions:** Product level analysis relies on product descriptions, and some descriptions represent services or non-standard items, such as postage.
 
 
-#### Future Analysis
+## Future Analysis
 
 Possible extensions of this project include:
 
