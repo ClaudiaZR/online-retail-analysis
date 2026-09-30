@@ -13,13 +13,13 @@ The objective of this analysis is to identify patterns in sales and customer beh
 
 ## Business questions
 
-   How does revenue change over time?
-   Which products generate the most revenue?
-   Which products sell the most units?
-   Which countries generate the most revenue?
-   Which customers generate the most revenue?
-   Which customers place the most orders?
-   What is the average order value?
+   - How does revenue change over time?
+   - Which products generate the most revenue?
+   - Which products sell the most units?
+   - Which countries generate the most revenue?
+   - Which customers generate the most revenue?
+   - Which customers place the most orders?
+   - What is the average order value?
 
 
 ## Data Sources Description
@@ -49,24 +49,24 @@ Note: Prices are recorded in GBP (£).
 
 ## Tools Used 
 
-Excel/CSV: data storage and transfer.
-SQL / SQLite: data exploration, quality checks, cleaning, and validation.
-Tableau: calculated fields, analysis, visualization, and dashboards.
-**GitHub** — project documentation and version control
+- Excel/CSV: data storage and transfer.
+- SQL / SQLite: data exploration, quality checks, cleaning, and validation.
+- Tableau: calculated fields, analysis, visualization, and dashboards.
+- **GitHub** — project documentation and version control
 
 
 ## Data Cleaning and Preparation
 
-The original dataset contained **541,909** transaction rows.
+- The original dataset contained **541,909** transaction rows.
 
 The following data-quality issues were investigated using SQL:
 
-•	Missing Customer IDs
-•	Cancelled transactions
-•	Negative quantities
-•	Invalid prices
-•	Duplicate records
-•	Missing product descriptions
+- Missing Customer IDs
+- Cancelled transactions
+- Negative quantities
+- Invalid prices
+- Duplicate records
+- Missing product descriptions
 
 ### Cleaning decisions
 
