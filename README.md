@@ -158,6 +158,7 @@ December should be interpreted cautiously because the dataset only contains tran
 #### Product performance
 
 Product performance differed depending on the metric used.
+
 PAPER CRAFT, LITTLE BIRDIE was the highest-volume product at approximately 81,000 units sold and generated approximately £168,000 in revenue.
 
 DOTCOM POSTAGE generated the highest revenue among the products shown, at approximately £206,000, despite not appearing among the top products by units sold.
@@ -171,15 +172,20 @@ The Netherlands, EIRE, Germany, and France were the next largest revenue generat
 #### Customer performance
 
 Customer value varied substantially.
+
 The highest revenue customer generated approximately £280,206 across 73 orders.
+
 However, the customer with the most orders placed 209 orders, demonstrating that the highest revenue customer and the most frequent customer were not the same.
+
 Some customers also had exceptionally high average order values because their revenue was generated from only one or two orders. These cases would deserve further investigation before drawing conclusions about typical customer behavior.
 
 
 #### Limitations
 
 **Partial December data:** The dataset ends on December 9, 2011, so December revenue cannot be compared directly with complete months.
+
 **Missing customer identifiers:** Some transactions do not contain a Customer ID. These transactions were retained for overall sales analysis but excluded from customer level analysis.
+
 **Product descriptions:** Product level analysis relies on product descriptions, and some descriptions represent services or non-standard items, such as postage.
 
 
@@ -195,6 +201,7 @@ Possible extensions of this project include:
 
 ## Project Structure
 
+```
 online-retail-analysis/
 │
 ├── README.md
@@ -210,6 +217,7 @@ online-retail-analysis/
     ├── README.md
     └── online_retail_dashboard.twbx
 
+```
 
 ## Project Workflow    
 
