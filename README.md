@@ -138,11 +138,11 @@ A Top 20 customer view was used to focus the customer analysis on the highest-re
 
 The cleaned dataset produced the following overall metrics in Tableau:
 
-KPI	                  Result
-Revenue	              £10,642,110.80
-Orders	              19,960
-Customers	            4,338
-Average Order Value	  £533.17
+| KPI | Result |
+| Revenue | £10,642,110.80 |
+| Orders | 19,960 |
+| Customers | 4,338 |
+| Average Order Value | £533.17 |
 
 
 ### Key Findings
