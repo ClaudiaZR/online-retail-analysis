@@ -57,7 +57,7 @@ Note: Prices are recorded in GBP (£).
 
 ## Data Cleaning and Preparation
 
-- The original dataset contained **541,909** transaction rows.
+The original dataset contained **541,909** transaction rows.
 
 The following data-quality issues were investigated using SQL:
 
@@ -72,10 +72,10 @@ The following data-quality issues were investigated using SQL:
 
 The following records were excluded from the analytical dataset:
 
-•	Cancelled invoices (InvoiceNo beginning with C)
-•	Transactions with Quantity <= 0
-•	Transactions with UnitPrice <= 0
-•	Exact duplicate records
+- Cancelled invoices (InvoiceNo beginning with C)
+- Transactions with Quantity <= 0
+- Transactions with UnitPrice <= 0
+- Exact duplicate records.
 
 Transactions with missing Customer IDs were retained because they can still contribute to overall sales, product, and country analysis. They were excluded only from customer level analysis because the customer cannot be identified.
 
@@ -111,25 +111,25 @@ The Tableau workbook contains two dashboards.
 
 The Executive Overview provides a high-level view of sales performance and includes:
 
-Total Revenue
-Total Orders
-Total Customers
-Average Order Value
-Monthly Revenue Trend
-Top Products by Revenue
-Top Products by Units Sold
-Top Countries by Revenue
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Monthly Revenue Trend
+- Top Products by Revenue
+- Top Products by Units Sold
+- Top Countries by Revenue
 
 ### Customer Analysis ###
 
 The Customer Analysis dashboard focuses on customer purchasing behavior and includes:
 
-Customer Revenue
-Customer Order Frequency
-Customer Summary
-Revenue by Customer
-Orders by Customer
-Average Order Value
+- Customer Revenue
+- Customer Order Frequency
+- Customer Summary
+- Revenue by Customer
+- Orders by Customer
+- Average Order Value
 
 A Top 20 customer view was used to focus the customer analysis on the highest-revenue customers.
 
@@ -186,10 +186,11 @@ Some customers also had exceptionally high average order values because their re
 #### Future Analysis
 
 Possible extensions of this project include:
-•	Customer retention and repeat-purchase analysis
-•	Customer segmentation
-•	Product profitability analysis, if cost data becomes available
-•	Seasonal purchasing patterns
+
+- Customer retention and repeat-purchase analysis
+- Customer segmentation
+- Product profitability analysis, if cost data becomes available
+- Seasonal purchasing patterns
 
 
 ## Project Structure
@@ -212,23 +213,23 @@ online-retail-analysis/
 
 ## Project Workflow    
 
-Raw Dataset
+- Raw Dataset
      ↓
-SQL Data Exploration
+- SQL Data Exploration
      ↓
-Data Quality Investigation
+- Data Quality Investigation
      ↓
-SQL Cleaning
+- SQL Cleaning
      ↓
-Clean Dataset
+- Clean Dataset
      ↓
-Tableau Calculations
+- Tableau Calculations
      ↓
-Tableau Analysis
+- Tableau Analysis
      ↓
-Dashboards
+- Dashboards
      ↓
-Business Insights
+- Business Insights
 
 
 ## Conclusion
