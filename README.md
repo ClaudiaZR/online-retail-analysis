@@ -201,6 +201,7 @@ Possible extensions of this project include:
 - Seasonal purchasing patterns
 
 
+--- 
 
 **Link to the workbook in Tableau Public :**   
 
