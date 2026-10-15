@@ -9,8 +9,8 @@ The original dataset is not included in this repository.
 
 The cleaned dataset used for the Tableau analysis was created using SQL and exported as:
 
-`online_retail_clean.csv`
+online_retail_clean.csv
 
 Cleaning and validation steps can be found in:
 
-`../sql/online_retail_analysis.sql`
+../sql/online_retail_analysis.sql
